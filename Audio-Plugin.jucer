@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="cZQM5o" name="Audio-Plugin" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" pluginCharacteristicsValue="pluginProducesMidiOut,pluginWantsMidiIn"
-              pluginFormats="buildAU,buildVST3" bundleIdentifier="NoisegateMedia Plugins">
+              pluginFormats="buildAU,buildVST3" pluginManufacturer="NoisegateMedia">
   <MAINGROUP id="PvMrfh" name="Audio-Plugin">
     <GROUP id="{F13FA1F6-5067-2FB4-FDCF-222543A77812}" name="Source">
       <FILE id="Jvm3TZ" name="PluginProcessor.cpp" compile="1" resource="0"
